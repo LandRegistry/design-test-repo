@@ -1,4 +1,6 @@
-# design-test-repo
-test repo for designers to check git permissions
+# Repo purpose
 
-Emeric test editting this repo extra change now
+The purpose of this repo is to check that you have:
+
+* Correctly set up SSH
+* Added to the designers team
